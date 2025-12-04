@@ -57,7 +57,7 @@ Strong correlations observed between transport types:
 
 ## Modeling Approach
 
-- **Model:** Gradient Boosting 
+- **Model:**SARIMA
 - **Input:** Lag features of each transport type  
 - **Output:** Forecast for future demand  
 - **Evaluation Metrics:** RMSE, MAE, MAPE  
